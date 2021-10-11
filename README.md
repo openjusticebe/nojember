@@ -27,9 +27,6 @@ OpenJustice event template page
 
 * **Jaime Alejandro Rios** - *GitHub* - [/jaiimeriios](https://github.com/jaiimeriios)
 
-### Theme Version
-
-1.0
 
 #### EVENT
 
