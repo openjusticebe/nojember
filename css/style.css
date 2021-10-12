@@ -1066,20 +1066,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# Sponsors Section
+# spss Section
 --------------------------------------------------------------*/
 
 #sps {
   padding: 60px 0;
 }
 
-#sps .sponsors-wrap {
+#sps .spss-wrap {
   border-top: 1px solid #e0e5fa;
   border-left: 1px solid #e0e5fa;
   margin-bottom: 30px;
 }
 
-#sps .sponsor-logo {
+#sps .sps-logo {
   padding: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1097,7 +1097,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 160px;
 }
 
-#sps .sponsor-logo:hover img {
+#sps .sps-logo:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
